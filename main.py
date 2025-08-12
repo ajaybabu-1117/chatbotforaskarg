@@ -66,4 +66,4 @@ for role, message in reversed(st.session_state.history):
     if role == "You":
         st.markdown(f"**🧑 {role}:** {message}")
     else:
-        st.markdown(f"**🤖 {role}:** {message}")main.py
+        st.markdown(f"**🤖 {role}:** {message}")
