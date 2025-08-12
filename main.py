@@ -44,7 +44,7 @@ def ask_perplexity(question):
 
 # 🚀 Streamlit UI
 st.set_page_config(page_title="Perplexity Chatbot", page_icon="🤖")
-st.title("🤖 Venkata Pavan Personal AI Chatbot")
+st.title("ASKARG Personal AI Chatbot")
 
 # Initialize chat history
 if "history" not in st.session_state:
