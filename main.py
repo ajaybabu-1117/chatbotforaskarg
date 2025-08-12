@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # ✅ Your actual Perplexity API key
-API_KEY = "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"
+API_KEY = "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"
 API_URL = "https://api.perplexity.ai/chat/completions"
 
 # ✅ Choose a valid model
